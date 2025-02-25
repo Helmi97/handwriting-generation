@@ -1,0 +1,3 @@
+[submodule "handwriting_generation/vatr"]
+	path = handwriting_generation/vatr
+	url = https://github.com/aimagelab/VATr.git
